@@ -1,1 +1,1 @@
-print("Today is 23rd May 2021")
+print("Print issue fixed")
